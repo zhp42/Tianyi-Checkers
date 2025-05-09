@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/Luffy.png</file>
+        <file>image/OnePiece.png</file>
+        <file>image/微信图片_20190404130500.jpg</file>
+        <file>image/20140530162134_TWnJz.gif</file>
+        <file>image/QQ图片20190423184037.gif</file>
+        <file>image/65.jpg</file>
+    </qresource>
+    <qresource prefix="/new">
+        <file>image/Frame.jpg</file>
+    </qresource>
+</RCC>
